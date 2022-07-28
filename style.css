@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 255, 255);
+    display: block;
+    margin: 8px;
+}
+form{
+    display: block;
+    margin-top: 0em;
+    margin-block-end: 1em;
+}
+
+.logo{
+    display: block;
+    text-align: -webkit-center;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+#tablo{
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%;
+}
+.main{
+    display: block;
+    text-align: -webkit-center;
+}
